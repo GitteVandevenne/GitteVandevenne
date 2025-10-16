@@ -12,8 +12,10 @@
   <a href="https://www.linkedin.com/in/gitte-vandevenne-a35269269/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <!--
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+-->
 </div>
 
 ###
@@ -23,15 +25,18 @@
 </div>
 
 ###
-<!--
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<ul align="left">
+  <li>Graduated with a master's degree in Software systems Engineering Technology from <a href="https://www.uhasselt.be/en">UHasselt</a> and <a href="https://www.kuleuven.be/english">KU Leuven</a></li>
+  <li>Currently doing an Erasmus+ internship as full-stack developper at <a href="https://tydecell.com/">TydeCell</a></li>
+</ul>
 
 ###
--->
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -55,15 +60,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
   <img width="12" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
+  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+
 </div>
 
 ###
@@ -72,10 +87,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://readme-stats-git-main-gittevandevennes-projects.vercel.app/api/top-langs?username=GitteVandevenne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://readme-stats-alpha-one.vercel.app/api/top-langs?username=GitteVandevenne&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false" height="221" alt="languages graph" />
 
-  <img src="https://streak-stats.demolab.com?user=GitteVandevenne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=GitteVandevenne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="215" alt="streak graph"  />
 </div>
 
 ###
