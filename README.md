@@ -84,7 +84,7 @@
 <div align="center">
   <img src="https://readme-stats-alpha-one.vercel.app/api/top-langs?username=GitteVandevenne&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="221" alt="languages graph" />
 
-  <img src="https://streak-stats.demolab.com?user=GitteVandevenne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="215" alt="streak graph"  />
+   <!--img src="https://streak-stats.demolab.com?user=GitteVandevenne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /-->
 </div>
 
 ###
