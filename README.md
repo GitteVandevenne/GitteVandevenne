@@ -26,7 +26,8 @@
 
 <ul align="left">
   <li>Graduated with a master's degree in Software systems Engineering Technology from <a href="https://www.uhasselt.be/en">UHasselt</a> and <a href="https://www.kuleuven.be/english">KU Leuven</a></li>
-  <li>Currently doing an Erasmus+ internship as full-stack developper at <a href="https://tydecell.com/">TydeCell</a></li>
+  <li>Did an Erasmus+ internship as full-stack developper at <a href="https://tydecell.com/">TydeCell</a></li>
+  <li>Currently Front End Consultant at <a href="https://www.axxes.com/">Axxes IT consultancy</a></li>
 </ul>
 
 ###
@@ -54,25 +55,26 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <!--
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
 
+
+</div>
+<br><br>
+<div align="center">
+  <a href="https://certificates.dev/angular/certificates/a1a63d76-78cc-47f5-882a-a70b092629b9">
+    <img src="https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A" alt="Angular Mid-Level Certificate" />
+  </a>
 </div>
 
 ###
